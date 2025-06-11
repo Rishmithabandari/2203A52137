@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "company": "HP",
+      "category": "Electronics",
+      "price": 50000,
+      "discount": 10,
+      "rating": 4.5,
+      "availability": true
+    },
+    {
+      "id": 2,
+      "name": "T-Shirt",
+      "company": "Zara",
+      "category": "Clothing",
+      "price": 800,
+      "discount": 5,
+      "rating": 4.2,
+      "availability": true
+    },
+    {
+      "id": 3,
+      "name": "Smartphone",
+      "company": "Samsung",
+      "category": "Electronics",
+      "price": 30000,
+      "discount": 15,
+      "rating": 4.6,
+      "availability": true
+    }
+  ]
+}
